@@ -1,6 +1,6 @@
-streamlit==1.22.0
-numpy==1.26.0
-pandas==2.2.3
+streamlit==1.21.0
+pandas<2
+numpy==1.23.0 
 langchain-ollama==0.1.3
 
 
